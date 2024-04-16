@@ -24,7 +24,7 @@
     ],
     "bedroom": 4,
     "bathroom": 3,
-    "image": "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=600"
+    "image": "https://images.pexels.com/photos/323776/pexels-photo-323776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
   },
   {
     "id": 2,
@@ -49,7 +49,7 @@
     ],
     "bedroom": 3,
     "bathroom": 2,
-    "image": "https://images.pexels.com/photos/3625713/pexels-photo-3625713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    "image": "https://images.pexels.com/photos/259646/pexels-photo-259646.jpeg?auto=compress&cs=tinysrgb&w=600"
   },
   {
     "id": 3,
